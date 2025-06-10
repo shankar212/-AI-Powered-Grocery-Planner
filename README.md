@@ -130,7 +130,7 @@ Total Cost: $63.15
 
 ---
 
-## ✍️ Add to Resume
+## ✍️
 
 **Project Title**: AI-Powered Grocery Planner with Gemini & Kroger API  
 **Tech Stack**: Python, Streamlit, Google Gemini, REST APIs, ReportLab  
