@@ -141,4 +141,4 @@ Total Cost: $63.15
 ## 📬 Contact
 
 > Created by **Shanker Rathod**  
-> For questions or collaboration: [Your Email / LinkedIn]
+> For questions or collaboration: [shankerr.me / https://www.linkedin.com/in/shanker-rathod-4a609421b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
