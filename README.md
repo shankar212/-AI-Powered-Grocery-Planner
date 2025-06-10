@@ -12,6 +12,7 @@ This project is a full-stack AI-integrated grocery planning tool built using **S
 - 🛒 **Kroger Product API** for real-time grocery inventory and pricing.
 - 📄 PDF export of shopping lists.
 - 🧮 Budget-aware item aggregation and cost calculation.
+- **LIVE** : https://ai-powered-grocery-planner.streamlit.app/
 
 ---
 
